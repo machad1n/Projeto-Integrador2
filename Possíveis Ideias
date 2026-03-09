@@ -1,0 +1,54 @@
+1. Sistema de Gestão do Abrigo
+
+Um sistema web ou app para organizar os dados dos animais.
+
+Funcionalidades possíveis:
+-Cadastro de animais (nome, idade, raça, histórico, fotos)
+-Controle de vacinação e vermifugação
+-Histórico veterinário
+-Controle de adoção
+-Animais disponíveis para adoção
+-Animais resgatados / em tratamento
+
+
+2. Plataforma de Adoção Online
+
+Um site público para adoção de animais.
+
+Funcionalidades:
+-Lista de animais disponíveis
+-Filtros (porte, idade, espécie, sexo)
+-Perfil do animal com fotos e história
+-Formulário de interesse em adoção
+-Sistema para o abrigo aprovar candidatos
+
+💡 Extra interessante:
+
+Algoritmo simples de match entre adotante e animal.
+
+
+
+3. Sistema de Controle de Doações
+
+Abrigos vivem de doações e muitas vezes não conseguem organizar isso direito.
+
+Funcionalidades:
+-Cadastro de doadores
+-Registro de doações (ração, dinheiro, medicamentos)
+-Controle de estoque de ração
+-Relatórios de entrada e saída
+-Lista pública de necessidades do abrigo
+
+
+
+4. App de Voluntariado
+
+Aplicativo para organizar voluntários.
+
+Funcionalidades:
+
+-Cadastro de voluntários
+-Agenda de atividades
+-Escala de trabalho
+-Notificações de eventos ou mutirões
+-Registro de horas de voluntariado
