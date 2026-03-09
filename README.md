@@ -2,9 +2,9 @@
 
 ## 🚀 1. Descrição do Projeto
 
-Abrigos de animais desempenham um papel fundamental no resgate, cuidado e reabilitação de cães e gatos abandonados. No entanto, muitas dessas organizações enfrentam dificuldades relacionadas à gestão de informações, divulgação de animais para adoção, organização de voluntários e controle de doações. Frequentemente, essas atividades são realizadas de forma manual ou com ferramentas limitadas, o que pode dificultar o trabalho diário e reduzir o alcance das iniciativas de proteção animal.
+Abrigos de animais desempenham um papel fundamental no resgate, cuidado e reabilitação de animais abandonados. No entanto, muitas dessas organizações enfrentam dificuldades relacionadas à gestão de informações, divulgação de animais para adoção, organização de voluntários e controle de doações. Frequentemente, essas atividades são realizadas de forma manual ou com ferramentas limitadas, o que pode dificultar o trabalho diário e reduzir o alcance das iniciativas de proteção animal.
 
-A **CarePaw** é um projeto integrador do curso de Ciência da Computação do Centro Universitário de Brasília (CEUB), voltado ao desenvolvimento de uma solução tecnológica para auxiliar abrigos que cuidam de cães e gatos domésticos.
+A **CarePaw** é um projeto integrador do curso de Ciência da Computação do Centro Universitário de Brasília (CEUB), voltado ao desenvolvimento de uma solução tecnológica para auxiliar abrigos que cuidam desses animais.
 
 O nome *CarePaw* vem da junção de *Care* (cuidado) e *Paw* (pata), simbolizando o compromisso de oferecer cuidado, proteção e melhores condições de vida para animais que dependem da atuação de abrigos e protetores.
 
@@ -50,4 +50,3 @@ A organização inicial do repositório seguirá a seguinte estrutura:
 
 A **CarePaw** nasce como uma iniciativa acadêmica voltada para resolver problemas reais enfrentados por abrigos de animais. Ao desenvolver uma solução baseada nas necessidades identificadas em campo, o projeto busca demonstrar como a tecnologia pode contribuir para melhorar a organização, a comunicação e a eficiência das atividades realizadas por essas instituições.
 
-A longo prazo, a proposta é que a solução possa ser expandida e adaptada para auxiliar outros abrigos e organizações de proteção animal, ampliando o impacto positivo no cuidado e bem-estar de cães e gatos.
