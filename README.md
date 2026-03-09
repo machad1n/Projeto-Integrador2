@@ -1,79 +1,53 @@
-# Projeto-Integrador2
+# 🐾 CarePaw: Plataforma de Apoio a Abrigos de Animais
 
-1. Sistema de Gestão do Abrigo
+## 🚀 1. Descrição do Projeto
 
-Um sistema web ou app para organizar os dados dos animais.
+Abrigos de animais desempenham um papel fundamental no resgate, cuidado e reabilitação de cães e gatos abandonados. No entanto, muitas dessas organizações enfrentam dificuldades relacionadas à gestão de informações, divulgação de animais para adoção, organização de voluntários e controle de doações. Frequentemente, essas atividades são realizadas de forma manual ou com ferramentas limitadas, o que pode dificultar o trabalho diário e reduzir o alcance das iniciativas de proteção animal.
 
-Funcionalidades possíveis:
+A **CarePaw** é um projeto integrador do curso de Ciência da Computação do Centro Universitário de Brasília (CEUB), voltado ao desenvolvimento de uma solução tecnológica para auxiliar abrigos que cuidam de cães e gatos domésticos.
 
-Cadastro de animais (nome, idade, raça, histórico, fotos)
+O nome *CarePaw* vem da junção de *Care* (cuidado) e *Paw* (pata), simbolizando o compromisso de oferecer cuidado, proteção e melhores condições de vida para animais que dependem da atuação de abrigos e protetores.
 
-Controle de vacinação e vermifugação
+A proposta do projeto é entrar em contato com um abrigo local para compreender suas necessidades reais e, a partir disso, desenvolver uma aplicação que possa apoiar suas atividades. A plataforma poderá ajudar na organização de informações sobre os animais, facilitar a divulgação de adoções, apoiar o controle de doações e contribuir para melhorar a comunicação entre o abrigo e a comunidade.
 
-Histórico veterinário
+Dessa forma, a **CarePaw** busca utilizar a tecnologia como ferramenta para fortalecer o trabalho das organizações que atuam no resgate e cuidado de cães e gatos.
 
-Controle de adoção
+---
 
-Animais disponíveis para adoção
+## 🎯 2. Objetivos Iniciais
 
-Animais resgatados / em tratamento
+Para a primeira fase do projeto, o foco está na pesquisa e análise das necessidades de um abrigo de animais para estruturar a base da solução. Os objetivos são:
 
-💡 Tecnologias possíveis:
+* 📊 **Mapear necessidades reais de abrigos de animais:** compreender as principais dificuldades enfrentadas na gestão de animais, adoções, doações e voluntariado.
+* 🐶 **Validar o problema:** identificar quais processos poderiam ser otimizados ou digitalizados para facilitar o trabalho das organizações.
+* 💡 **Definir requisitos da solução:** transformar as necessidades identificadas em funcionalidades para a plataforma CarePaw.
+* 📱 **Prototipar a plataforma CarePaw:** desenvolver wireframes e fluxos de usuário que demonstrem como a solução poderá apoiar o abrigo.
 
-Backend: Node.js / Java / Python
+---
 
-Frontend: React / Vue
+## 👥 3. Membros da Equipe e Papéis
 
-Banco: PostgreSQL / MongoDB
+* Pedro Henrique Machado | **Líder de Equipe** | RA: 22502885
+* Matheus Belo Palazzo | RA: 22105599
+* Rafael Maia Teixeira | RA: 22250421
+* Yuri Pinheiro Poley de Souza | RA: 21751050
 
-2. Plataforma de Adoção Online
+---
 
-Um site público para adoção de animais.
+## 📂 4. Estrutura do Repositório
 
-Funcionalidades:
+A organização inicial do repositório seguirá a seguinte estrutura:
 
-Lista de animais disponíveis
+* 🗂 **/data:** Dados coletados durante entrevistas e pesquisas com abrigos.
+* 📄 **/docs:** Documentação do projeto, atas de reunião e especificações.
+* 📊 **/results:** Relatórios, análises e resultados obtidos ao longo do projeto.
+* 🎨 **/prototype:** Protótipos da interface e fluxos da aplicação.
+* 💻 **/src:** Código-fonte principal da aplicação.
 
-Filtros (porte, idade, espécie, sexo)
+---
 
-Perfil do animal com fotos e história
+## 🌎 5. Sobre o Projeto Integrador
 
-Formulário de interesse em adoção
+A **CarePaw** nasce como uma iniciativa acadêmica voltada para resolver problemas reais enfrentados por abrigos de animais. Ao desenvolver uma solução baseada nas necessidades identificadas em campo, o projeto busca demonstrar como a tecnologia pode contribuir para melhorar a organização, a comunicação e a eficiência das atividades realizadas por essas instituições.
 
-Sistema para o abrigo aprovar candidatos
-
-💡 Extra interessante:
-
-Algoritmo simples de match entre adotante e animal.
-
-3. Sistema de Controle de Doações
-
-Abrigos vivem de doações e muitas vezes não conseguem organizar isso direito.
-
-Funcionalidades:
-
-Cadastro de doadores
-
-Registro de doações (ração, dinheiro, medicamentos)
-
-Controle de estoque de ração
-
-Relatórios de entrada e saída
-
-Lista pública de necessidades do abrigo
-
-4. App de Voluntariado
-
-Aplicativo para organizar voluntários.
-
-Funcionalidades:
-
-Cadastro de voluntários
-
-Agenda de atividades
-
-Escala de trabalho
-
-Notificações de eventos ou mutirões
-
-Registro de horas de voluntariado
+A longo prazo, a proposta é que a solução possa ser expandida e adaptada para auxiliar outros abrigos e organizações de proteção animal, ampliando o impacto positivo no cuidado e bem-estar de cães e gatos.
