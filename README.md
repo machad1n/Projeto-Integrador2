@@ -40,7 +40,6 @@ A organização inicial do repositório seguirá a seguinte estrutura:
 
 * 🗂 **/data:** Dados coletados durante entrevistas e pesquisas com abrigos.
 * 📄 **/docs:** Documentação do projeto, atas de reunião e especificações.
-* 📊 **/results:** Relatórios, análises e resultados obtidos ao longo do projeto.
 * 🎨 **/prototype:** Protótipos da interface e fluxos da aplicação.
 * 💻 **/src:** Código-fonte principal da aplicação.
 
