@@ -29,7 +29,6 @@ Para a primeira fase do projeto, o foco está na pesquisa e análise das necessi
 
 * Pedro Henrique Machado | **Líder de Equipe** | RA: 22502885
 * Matheus Belo Palazzo | RA: 22105599
-* Rafael Maia Teixeira | RA: 22250421
 * Yuri Pinheiro Poley de Souza | RA: 21751050
 
 ---
