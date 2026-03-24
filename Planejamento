@@ -1,0 +1,62 @@
+## Planejamento de Sprints do Projeto (Baseado no Semestre)
+
+Considerando o período atual até o final do semestre (aproximadamente 14 semanas), o projeto será dividido em 14 sprints semanais, permitindo uma evolução contínua e organizada do desenvolvimento.
+
+### Sprint 1 (Semana 1) – Identificação e Entendimento do Problema
+
+Levantamento do problema, análise das necessidades da escola e definição dos objetivos do sistema.
+
+### Sprint 2 (Semana 2) – Planejamento
+
+Definição do escopo, funcionalidades principais, cronograma e escolha das tecnologias.
+
+### Sprint 3 (Semana 3) – Modelagem de Dados
+
+Estruturação das informações que o site irá apresentar (conteúdos institucionais, contatos, etc.).
+
+### Sprint 4 (Semana 4) – Prototipação (UI/UX)
+
+Criação de wireframes e definição do layout inicial do site.
+
+### Sprint 5 (Semana 5) – Prototipação + Início do Front-end
+
+Refinamento do protótipo e início da implementação da interface.
+
+### Sprint 6 (Semana 6) – Desenvolvimento do Front-end
+
+Continuação da construção das páginas principais e navegação.
+
+### Sprint 7 (Semana 7) – Desenvolvimento do Front-end
+
+Finalização da estrutura visual do site e responsividade.
+
+### Sprint 8 (Semana 8) – Implementação de Funcionalidades
+
+Adição de botões de contato, links e interações básicas.
+
+### Sprint 9 (Semana 9) – Implementação de Funcionalidades
+
+Integração de formulários (ex: contato) e melhorias de usabilidade.
+
+### Sprint 10 (Semana 10) – Ajustes no Front-end + Funcionalidades
+
+Refinamento visual e melhorias nas funcionalidades já implementadas.
+
+### Sprint 11 (Semana 11) – Testes
+
+Testes de navegação, responsividade e funcionamento geral do site.
+
+### Sprint 12 (Semana 12) – Testes e Correções
+
+Correção de erros encontrados e ajustes de usabilidade.
+
+### Sprint 13 (Semana 13) – Preparação para Publicação
+
+Revisão geral do projeto, organização final e preparação para entrega.
+
+### Sprint 14 (Semana 14) – Publicação e Entrega Final
+
+Publicação do site e finalização da documentação do projeto.
+
+Esse planejamento permite uma evolução progressiva, com sobreposição de etapas importantes como desenvolvimento e ajustes, garantindo maior qualidade no resultado final.
+
