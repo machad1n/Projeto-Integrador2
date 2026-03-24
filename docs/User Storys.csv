@@ -1,0 +1,14 @@
+ID,Tipo (User Story / Feature),Descrição,Prioridade (Alta/Média/Baixa),Sprint Planejada
+US01,,,,
+US01,User Story,"Como pai/responsável, quero encontrar informações sobre a escola de forma rápida, para que eu possa conhecer a instituição e seus valores.",Alta,Sprint 4
+US02,User Story,"Como aluno atual, quero acessar informações sobre as turmas e atividades, para que eu possa me manter atualizado sobre o meu dia a dia escolar.",Média,Sprint 4
+US03,User Story,"Como interessado, quero visualizar um layout moderno e intuitivo, para que eu tenha uma boa primeira impressão da escola.",Alta,Sprint 4
+US04,User Story,"Como usuário, quero navegar facilmente entre as diferentes seções do site, para que eu encontre o que procuro sem dificuldades.",Alta,Sprint 6
+US05,User Story,"Como usuário, quero que o site se adapte a diferentes tamanhos de tela (celular, tablet, computador), para que eu possa acessá-lo de qualquer dispositivo.",Alta,Sprint 7
+US06,User Story,"Como pai/responsável, quero ter acesso a botões de contato claros (telefone, e-mail), para que eu possa tirar minhas dúvidas diretamente com a escola.",Alta,Sprint 8
+US07,User Story,"Como interessado, quero preencher um formulário de contato no site, para que eu possa solicitar mais informações ou agendar uma visita.",Alta,Sprint 9
+US08,User Story,"Como usuário, quero que o site tenha um desempenho rápido e sem travamentos, para que minha experiência de navegação seja agradável.",Média,Sprint 10
+US09,User Story,"Como administrador da escola, quero que o site seja fácil de atualizar, para que eu possa manter as informações sempre corretas e recentes.",Média,Sprint 10
+US10,User Story,"Como usuário, quero que todas as funcionalidades do site (botões, formulários) funcionem corretamente, para que eu possa interagir com a escola sem problemas.",Alta,Sprint 11
+US11,User Story,"Como usuário, quero que o site esteja livre de erros de digitação ou informações desatualizadas, para que eu confie na credibilidade da escola.",Alta,Sprint 12
+US12,User Story,"Como usuário, quero que o site esteja disponível online e acessível a qualquer momento, para que eu possa consultá-lo sempre que precisar.",Alta,Sprint 14
