@@ -41,7 +41,7 @@ A organização inicial do repositório seguirá a seguinte estrutura:
 
 ---
 
-# 🧩 Tecnologias Utilizadas
+# 🧩 5. Tecnologias Utilizadas
 
 ## 🎨 Front-end
 
