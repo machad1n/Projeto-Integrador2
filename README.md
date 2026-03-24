@@ -1,4 +1,4 @@
-# 🎓 Site Institucional para CAIC 
+# 🎓 Site Institucional para o CAIC 
 
 ## 🚀 1. Descrição do Projeto
 
