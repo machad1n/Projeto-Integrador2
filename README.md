@@ -69,7 +69,3 @@ A organização inicial do repositório seguirá a seguinte estrutura:
 
 - ▲ **Vercel**  
   Plataforma utilizada para hospedagem do front-end e APIs, com integração direta com projetos Next.js.
-
-
-
----
