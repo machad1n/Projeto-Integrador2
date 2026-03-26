@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Status do Projeto
+### 📌 Status do Projeto
 🚧 Em desenvolvimento — Sprint 3
 
 ---
