@@ -1,6 +1,6 @@
 # 🎓 Site Institucional para o CAIC 
 
-#📌 Status do Projeto
+# 📌 Status do Projeto
 🚧 Em desenvolvimento — Sprint 3
 
 ## 🚀 1. Descrição do Projeto
