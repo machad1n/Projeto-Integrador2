@@ -3,6 +3,8 @@
 # 📌 Status do Projeto
 🚧 Em desenvolvimento — Sprint 3
 
+---
+
 ## 🚀 1. Descrição do Projeto
 
 Instituições de ensino precisam cada vez mais de uma presença digital para se comunicar com alunos, responsáveis e a comunidade em geral. No entanto, muitas escolas ainda não possuem um site institucional, o que dificulta o acesso a informações importantes e reduz sua visibilidade.
