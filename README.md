@@ -1,8 +1,8 @@
-# 🎓 Site Institucional para o CAIC 
+# 🎓 Site Institucional para o CAIC
 
 ---
 
-# 📌 Status do Projeto
+## 📌 Status do Projeto
 🚧 Em desenvolvimento — Sprint 3
 
 ---
@@ -21,19 +21,19 @@ A proposta do projeto é desenvolver uma aplicação web simples, moderna e aces
 
 Os objetivos são:
 
-* 📊 Identificar as principais necessidades da escola 
-* 🧩 Definir o escopo e as funcionalidades do sistema  
-* 💡 Estruturar e organizar o conteúdo institucional a ser apresentado  
-* 🎨 Desenvolver o design e a interface do site com foco em usabilidade  
-* 💻 Implementar o site utilizando tecnologias web  
-* 📱 Garantir que o site seja responsivo e acessível em diferentes dispositivos  
-* 🚀 Publicar o site e disponibilizá-lo para acesso público  
+- 📊 Identificar as principais necessidades da escola  
+- 🧩 Definir o escopo e as funcionalidades do sistema  
+- 💡 Estruturar e organizar o conteúdo institucional a ser apresentado  
+- 🎨 Desenvolver o design e a interface do site com foco em usabilidade  
+- 💻 Implementar o site utilizando tecnologias web  
+- 📱 Garantir que o site seja responsivo e acessível em diferentes dispositivos  
+- 🚀 Publicar o site e disponibilizá-lo para acesso público  
 
 ---
 
-## 👥 3. Membros da Equipe 
+## 👥 3. Membros da Equipe
 
-* Pedro Henrique Machado | RA: 22502885  
+- Pedro Henrique Machado | RA: 22502885  
 
 ---
 
@@ -41,16 +41,16 @@ Os objetivos são:
 
 A organização inicial do repositório seguirá a seguinte estrutura:
 
-* 🗂 **/assets:** Imagens e recursos visuais do site  
-* 📄 **/docs:** Documentação do projeto e materiais de apoio  
-* 🎨 **/prototype:** Protótipos e layouts da interface  
-* 💻 **/src:** Código-fonte do site
+- 🗂 **/assets:** Imagens e recursos visuais do site  
+- 📄 **/docs:** Documentação do projeto e materiais de apoio  
+- 🎨 **/prototype:** Protótipos e layouts da interface  
+- 💻 **/src:** Código-fonte do site  
 
 ---
 
-# 🧩 5. Tecnologias Utilizadas
+## 🧩 5. Tecnologias Utilizadas
 
-## 🎨 Front-end
+### 🎨 Front-end
 
 - ⚛️ **React / Next.js**  
   Utilizado para construção da interface do usuário, permitindo a criação de páginas dinâmicas, reutilização de componentes e melhor desempenho.  
@@ -59,7 +59,9 @@ A organização inicial do repositório seguirá a seguinte estrutura:
 - 🎨 **Tailwind CSS**  
   Framework de estilização utilizado para desenvolver um layout moderno, responsivo e de fácil manutenção.
 
-## ⚙️ Back-end
+---
+
+### ⚙️ Back-end
 
 - 🟢 **Node.js**  
   Ambiente de execução JavaScript utilizado para o desenvolvimento do servidor.
@@ -67,12 +69,16 @@ A organização inicial do repositório seguirá a seguinte estrutura:
 - 🚀 **API Routes (Next.js) / Express**  
   Responsável por lidar com requisições, como envio de formulários de contato e possíveis integrações com outros serviços.
 
-## 🗄️ Banco de Dados
+---
+
+### 🗄️ Banco de Dados
 
 - 🐘 **PostgreSQL**  
   Banco de dados relacional utilizado para armazenamento de informações, garantindo confiabilidade e escalabilidade.
 
-## ☁️ Deploy e Hospedagem
+---
+
+### ☁️ Deploy e Hospedagem
 
 - ▲ **Vercel**  
   Plataforma utilizada para hospedagem do front-end e APIs, com integração direta com projetos Next.js.
